@@ -2,7 +2,8 @@
   "editor.cursorBlinking": "phase",
   "editor.cursorStyle": "line",
   "editor.cursorWidth": 5,
-  "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "Operator Mono, Dank Mono, Fira Code",
+  "editor.fontLigatures": true,
   "editor.fontSize": 20,
   "editor.fontWeight": "400",
   "editor.formatOnSave": true,
@@ -34,5 +35,5 @@
   "vscode_custom_css.policy": true,
   "window.zoomLevel": 1,
   "workbench.colorTheme": "Cobalt2",
-  "workbench.startupEditor": "newUntitledFile"
+  "workbench.startupEditor": "none"
 }

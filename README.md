@@ -1,8 +1,8 @@
 ## dotfiles
 
-> 2. [vscode-keybindings.json](https://github.com/nicksocha/dotfiles/blob/master/vscode-settings.json)
-> 1. [vscode-settings.json](https://github.com/nicksocha/dotfiles/blob/master/vscode-keybindings.json)
-> 1. [vscode-vscodestyles.css](https://github.com/nicksocha/dotfiles/blob/master/vscode-vscodestyles.css)
+> 1. [vscode-keybindings.json](https://github.com/nicksocha/dotfiles/blob/master/vscode-settings.json)
+> 2. [vscode-settings.json](https://github.com/nicksocha/dotfiles/blob/master/vscode-keybindings.json)
+> 3. [vscode-vscodestyles.css](https://github.com/nicksocha/dotfiles/blob/master/vscode-vscodestyles.css)
 
 ## Atom <img src="https://assets-cdn.github.com/images/icons/emoji/atom.png"  width="20" height="20">
 
@@ -65,5 +65,6 @@
 
 > #### Font
 >
+> - FiraCode (Free alternative to Operator Mono) - https://github.com/tonsky/FiraCode
 > - Menlo for Powerline (Integrated Terminal Font - used with Oh My Zsh) - https://github.com/abertsch/Menlo-for-Powerline
 > - Operator Mono (Editor) - http://www.typography.com/fonts/operator/overview/
