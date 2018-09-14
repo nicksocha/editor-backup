@@ -35,5 +35,6 @@
   "vscode_custom_css.policy": true,
   "window.zoomLevel": 1,
   "workbench.colorTheme": "Cobalt2",
+  "workbench.settings.editor": "json",
   "workbench.startupEditor": "none"
 }

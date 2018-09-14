@@ -29,32 +29,33 @@
 
 > #### Extensions
 >
-> | Name                       | Install                                           | Link                                                                                      |
-> | :------------------------- | :------------------------------------------------ | :---------------------------------------------------------------------------------------- |
-> | Auto Close Tag             | ext install formulahendry.auto-close-tag          | https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag          |
-> | Auto Rename Tag            | ext install formulahendry.auto-rename-tag         | https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag         |
-> | Better Comments            | ext install aaron-bond.better-comments            | https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments            |
-> | Bracket Pair Colorizer     | ext install CoenraadS.bracket-pair-colorizer      | https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer      |
-> | Code Spell Checker         | ext install streetsidesoftware.code-spell-checker | https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker |
-> | Color Highlight            | ext install naumovs.color-highlight               | https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight               |
-> | Custom CSS and JS Loader   | ext install be5invis.vscode-custom-css            | https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css            |
-> | Debugger for Chrome        | ext install msjsdiag.debugger-for-chrome          | https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome          |
-> | Docker                     | ext install PeterJausovec.vscode-docker           | https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker           |
-> | ESLint                     | ext install dbaeumer.vscode-eslint                | https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint                |
-> | File Utils                 | ext install sleistner.vscode-fileutils            | https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils            |
-> | Git History                | ext install donjayamanne.githistory               | https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory               |
-> | GitLens — Git supercharged | ext install eamodio.gitlens                       | https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens                       |
-> | open in browser            | ext install techer.open-in-browser                | https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser                |
-> | Path Intellisense          | ext install christian-kohler.path-intellisense    | https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense    |
-> | Polacode                   | ext install pnp.polacode                          | https://marketplace.visualstudio.com/items?itemName=pnp.polacode                          |
-> | Prettier - Code formatter  | ext install esbenp.prettier-vscode                | https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode                |
-> | Quokka.js                  | ext install WallabyJs.quokka-vscode               | https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode               |
-> | Rainbow CSVRainbow CSV     | ext install mechatroner.rainbow-csv               | https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv               |
-> | Settings Sync              | ext install Shan.code-settings-sync               | https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync               |
-> | Sort lines                 | ext install Tyriar.sort-lines                     | https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines                     |
-> | Toggle Quotes              | ext install BriteSnow.vscode-toggle-quotes        | https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes        |
-> | Turbo Console Log          | ext install ChakrounAnas.turbo-console-log        | https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log        |
-> | VS Live Share              | ext install MS-vsliveshare.vsliveshare            | https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare            |
+> | Name                            | Install                                           | Link                                                                                      |
+> | :------------------------------ | :------------------------------------------------ | :---------------------------------------------------------------------------------------- |
+> | Auto Close Tag                  | ext install formulahendry.auto-close-tag          | https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag          |
+> | Auto Rename Tag                 | ext install formulahendry.auto-rename-tag         | https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag         |
+> | Better Comments                 | ext install aaron-bond.better-comments            | https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments            |
+> | Bracket Pair Colorizer          | ext install CoenraadS.bracket-pair-colorizer      | https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer      |
+> | Code Spell Checker              | ext install streetsidesoftware.code-spell-checker | https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker |
+> | Color Highlight                 | ext install naumovs.color-highlight               | https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight               |
+> | Custom CSS and JS Loader        | ext install be5invis.vscode-custom-css            | https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css            |
+> | Debugger for Chrome             | ext install msjsdiag.debugger-for-chrome          | https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome          |
+> | Docker                          | ext install PeterJausovec.vscode-docker           | https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker           |
+> | ESLint                          | ext install dbaeumer.vscode-eslint                | https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint                |
+> | File Utils                      | ext install sleistner.vscode-fileutils            | https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils            |
+> | Git History                     | ext install donjayamanne.githistory               | https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory               |
+> | GitLens — Git supercharged      | ext install eamodio.gitlens                       | https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens                       |
+> | open in browser                 | ext install techer.open-in-browser                | https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser                |
+> | Path Intellisense               | ext install christian-kohler.path-intellisense    | https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense    |
+> | Polacode                        | ext install pnp.polacode                          | https://marketplace.visualstudio.com/items?itemName=pnp.polacode                          |
+> | Prettier - Code formatter       | ext install esbenp.prettier-vscode                | https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode                |
+> | Quick and Simple Text Selection | ext install dbankier.vscode-quick-select          | https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select          |
+> | Quokka.js                       | ext install WallabyJs.quokka-vscode               | https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode               |
+> | Rainbow CSVRainbow CSV          | ext install mechatroner.rainbow-csv               | https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv               |
+> | Settings Sync                   | ext install Shan.code-settings-sync               | https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync               |
+> | Sort lines                      | ext install Tyriar.sort-lines                     | https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines                     |
+> | Toggle Quotes                   | ext install BriteSnow.vscode-toggle-quotes        | https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes        |
+> | Turbo Console Log               | ext install ChakrounAnas.turbo-console-log        | https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log        |
+> | VS Live Share                   | ext install MS-vsliveshare.vsliveshare            | https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare            |
 
 <!-- > |  |  |  | -->
 
