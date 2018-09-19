@@ -29,7 +29,7 @@
 
 > #### Extensions
 >
-> | Name                            | Install                                           | Link                                                                                      |
+> | Name                            | Install (Ctrl+P then paste)                       | Link                                                                                      |
 > | :------------------------------ | :------------------------------------------------ | :---------------------------------------------------------------------------------------- |
 > | Auto Close Tag                  | ext install formulahendry.auto-close-tag          | https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag          |
 > | Auto Rename Tag                 | ext install formulahendry.auto-rename-tag         | https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag         |
