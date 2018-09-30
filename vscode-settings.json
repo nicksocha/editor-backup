@@ -41,8 +41,10 @@
   "sync.quietSync": false,
   "sync.removeExtensions": true,
   "sync.syncExtensions": true,
+  "terminal.integrated.cursorBlinking": true,
   // Download Menlo for Powerline from: https://github.com/abertsch/Menlo-for-Powerline
   "terminal.integrated.fontFamily": "Menlo for Powerline",
+  "terminal.integrated.fontSize": 18,
   "terminal.integrated.shell.linux": "/usr/bin/zsh",
   "vscode_custom_css.imports": ["file:///home/nick/.vscode.vscodestyles.css"],
   "vscode_custom_css.policy": true,
@@ -52,5 +54,6 @@
   "workbench.editor.enablePreview": false,
   "workbench.editor.enablePreviewFromQuickOpen": false,
   "workbench.settings.editor": "json",
-  "workbench.startupEditor": "none"
+  "workbench.startupEditor": "none",
+  "window.zoomLevel": 0
 }
