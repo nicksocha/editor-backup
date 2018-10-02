@@ -1,5 +1,6 @@
 {
   "[markdown]": { "editor.wordWrap": "off" },
+  "clock.dateFormat": "dddd, mmmm dS, yyyy, h:MM:ss TT Z",
   "color-highlight.matchWords": true,
   "editor.cursorBlinking": "phase",
   "editor.cursorStyle": "line",
