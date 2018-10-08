@@ -72,8 +72,9 @@
 - Cobalt2 - https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2
 - Level Up Theme Official - https://marketplace.visualstudio.com/items?itemName=leveluptutorials.theme-levelup
 
-#### Font
+#### Fonts
 
+- Dank Mono (Editor) - https://dank.sh/
 - FiraCode (Free alternative to Operator Mono) - https://github.com/tonsky/FiraCode
 - Menlo for Powerline (Integrated Terminal Font - used with Oh My Zsh) - https://github.com/abertsch/Menlo-for-Powerline
 - Operator Mono (Editor) - http://www.typography.com/fonts/operator/overview/
