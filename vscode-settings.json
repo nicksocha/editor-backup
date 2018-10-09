@@ -50,11 +50,10 @@
   "vscode_custom_css.imports": ["file:///home/nick/.vscode.vscodestyles.css"],
   "vscode_custom_css.policy": true,
   "window.title": "${dirty}${activeEditorLong}${separator}${rootName}",
-  // "window.zoomLevel": -0.2,
+  "window.zoomLevel": -0.2,
   "workbench.colorTheme": "Cobalt2",
   "workbench.editor.enablePreview": false,
   "workbench.editor.enablePreviewFromQuickOpen": false,
   "workbench.settings.editor": "json",
-  "workbench.startupEditor": "none",
-  "window.zoomLevel": 0
+  "workbench.startupEditor": "none"
 }
