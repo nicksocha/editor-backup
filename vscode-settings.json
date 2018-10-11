@@ -4,7 +4,7 @@
   "color-highlight.matchWords": true,
   "editor.cursorBlinking": "phase",
   "editor.cursorStyle": "line",
-  "editor.cursorWidth": 4,
+  "editor.cursorWidth": 5,
   "editor.fontFamily": "Operator Mono, Dank Mono, Fira Code",
   "editor.fontLigatures": true,
   "editor.fontSize": 26,
@@ -33,6 +33,8 @@
     "borderColor": "#ffc600",
     "borderRadius": "5px"
   },
+  "markdown.preview.scrollEditorWithPreview": false,
+  "markdown.preview.scrollPreviewWithEditor": false,
   "open-in-browser.default": "chrome",
   "prettier.eslintIntegration": true,
   "sync.autoDownload": true,
