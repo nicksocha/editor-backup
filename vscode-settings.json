@@ -10,6 +10,7 @@
   "editor.fontSize": 26,
   "editor.fontWeight": "400",
   "editor.formatOnSave": true,
+  "editor.hover.delay": 5000,
   "editor.largeFileOptimizations": false,
   "editor.letterSpacing": 0.5,
   "editor.lineHeight": 29,
@@ -27,11 +28,29 @@
   "files.trimTrailingWhitespace": true,
   "gitlens.defaultDateFormat": "dddd, MMMM Do YYYY, h:mm:ss a",
   "gitlens.defaultDateStyle": "absolute",
-  "highlight-matching-tag.style": {
-    "borderWidth": "1px",
-    "borderStyle": "dotted",
-    "borderColor": "#ffc600",
-    "borderRadius": "5px"
+  "highlight-matching-tag.highlightSelfClosing": true,
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "left": {
+        "custom": {
+          "borderWidth": "1px",
+          "borderStyle": "dotted",
+          "borderColor": "#ffc600",
+          "borderRadius": "2px"
+        }
+      },
+      "right": {
+        "custom": {
+          "borderWidth": "1px",
+          "borderStyle": "dotted",
+          "borderColor": "#ffc600",
+          "borderRadius": "2px"
+        }
+      },
+      "name": {
+        "highlight": "rgba(255,198,0, 0.2)"
+      }
+    }
   },
   "markdown.preview.scrollEditorWithPreview": false,
   "markdown.preview.scrollPreviewWithEditor": false,
