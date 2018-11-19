@@ -55,7 +55,7 @@
   "markdown.preview.scrollEditorWithPreview": false,
   "markdown.preview.scrollPreviewWithEditor": false,
   "open-in-browser.default": "chrome",
-  "prettier.eslintIntegration": true,
+  "prettier.disableLanguages": ["vue", "html"],
   "sync.autoDownload": true,
   "sync.autoUpload": false,
   "sync.forceDownload": false,
