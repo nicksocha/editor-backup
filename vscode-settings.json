@@ -1,5 +1,43 @@
 {
   "[markdown]": { "editor.wordWrap": "off" },
+  "better-comments.highlightPlainText": true,
+  "better-comments.tags": [
+    {
+      // !Alert
+      "backgroundColor": "rgba(255,0,0,0.2)",
+      "color": "#ff0000",
+      "strikethrough": false,
+      "tag": "!"
+    },
+    {
+      // *Important
+      "backgroundColor": "rgba(17,252,126,0.2)",
+      "color": "#11FC7E",
+      "strikethrough": false,
+      "tag": "*"
+    },
+    {
+      // ?Question
+      "backgroundColor": "rgba(255,255,0,0.2)",
+      "color": "#ffff00",
+      "strikethrough": false,
+      "tag": "?"
+    },
+    {
+      // //Strikethrough
+      "backgroundColor": "rgba(71,71,71,0.2)",
+      "color": "#474747",
+      "strikethrough": true,
+      "tag": "//"
+    },
+    {
+      // todo Todo
+      "backgroundColor": "rgba(255,140,0,0.2)",
+      "color": "#ff6700",
+      "strikethrough": false,
+      "tag": "todo"
+    }
+  ],
   "clock.dateFormat": "dddd, mmmm dS, yyyy, h:MM:ss TT Z",
   "color-highlight.matchWords": true,
   "editor.cursorBlinking": "phase",
@@ -33,22 +71,22 @@
     "opening": {
       "left": {
         "custom": {
-          "borderWidth": "1px",
-          "borderStyle": "dotted",
           "borderColor": "#ffc600",
-          "borderRadius": "2px"
-        }
-      },
-      "right": {
-        "custom": {
-          "borderWidth": "1px",
+          "borderRadius": "2px",
           "borderStyle": "dotted",
-          "borderColor": "#ffc600",
-          "borderRadius": "2px"
+          "borderWidth": "1px"
         }
       },
       "name": {
-        "highlight": "rgba(255,198,0, 0.2)"
+        "highlight": "rgba(255,198,0,0.2)"
+      },
+      "right": {
+        "custom": {
+          "borderColor": "#ffc600",
+          "borderRadius": "2px",
+          "borderStyle": "dotted",
+          "borderWidth": "1px"
+        }
       }
     }
   },
@@ -70,6 +108,7 @@
   "terminal.integrated.shell.linux": "/usr/bin/zsh",
   "vscode_custom_css.imports": ["file:///home/nick/.vscode.vscodestyles.css"],
   "vscode_custom_css.policy": true,
+  "window.newWindowDimensions": "inherit",
   "window.title": "${dirty}${activeEditorLong}${separator}${rootName}",
   "window.zoomLevel": -0.2,
   "workbench.colorTheme": "Cobalt2",
