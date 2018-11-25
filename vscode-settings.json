@@ -90,6 +90,7 @@
       }
     }
   },
+  "liveServer.settings.donotShowInfoMsg": true,
   "markdown.preview.scrollEditorWithPreview": false,
   "markdown.preview.scrollPreviewWithEditor": false,
   "open-in-browser.default": "chrome",
