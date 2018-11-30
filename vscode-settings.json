@@ -112,7 +112,7 @@
   "vscode_custom_css.policy": true,
   "window.newWindowDimensions": "inherit",
   "window.title": "${dirty}${activeEditorLong}${separator}${rootName}",
-  "window.zoomLevel": -0.2,
+  "window.zoomLevel": -0.4,
   "workbench.colorTheme": "Cobalt2",
   "workbench.editor.enablePreview": false,
   "workbench.editor.enablePreviewFromQuickOpen": false,
