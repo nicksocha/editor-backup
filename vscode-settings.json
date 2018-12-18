@@ -1,5 +1,5 @@
 {
-  "[markdown]": { "editor.wordWrap": "on" },
+  "[markdown]": { "editor.wordWrap": "off" },
   "better-comments.highlightPlainText": true,
   "better-comments.tags": [
     {
@@ -119,4 +119,3 @@
   "workbench.settings.editor": "json",
   "workbench.startupEditor": "none"
 }
-
