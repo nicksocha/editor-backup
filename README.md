@@ -12,6 +12,7 @@
 
 - atom-beautify - https://atom.io/packages/atom-beautify
 - atom-clock - https://atom.io/packages/atom-clock _(time format = dddd, MMMM Do YYYY, h:mm:ss a)_
+- atom-live-server - https://atom.io/packages/atom-live-server
 - atom-quokka - https://atom.io/packages/atom-quokka (https://quokkajs.com/)
 - autocomplete-python - https://atom.io/packages/autocomplete-python
 - file-icons - https://atom.io/packages/file-icons
