@@ -47,7 +47,7 @@
   "editor.fontFamily": "Operator Mono, Dank Mono, Fira Code",
   "editor.fontLigatures": true,
   "editor.fontSize": 26,
-  "editor.fontWeight": "400",
+  "editor.fontWeight": "600",
   "editor.formatOnSave": true,
   "editor.hover.enabled": false,
   "editor.largeFileOptimizations": false,
