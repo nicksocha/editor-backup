@@ -137,6 +137,7 @@
   "workbench.colorTheme": "Cobalt2",
   "workbench.editor.enablePreview": false,
   "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.iconTheme": "file-icons",
   "workbench.settings.editor": "json",
   "workbench.startupEditor": "none"
 }
