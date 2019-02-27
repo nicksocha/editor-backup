@@ -1,4 +1,5 @@
 {
+  "[javascript]": { "editor.formatOnSave": false },
   "[markdown]": { "editor.wordWrap": "off" },
   "better-comments.highlightPlainText": true,
   "better-comments.tags": [
@@ -60,6 +61,7 @@
   "editor.renderWhitespace": "all",
   "editor.rulers": [80, 100, 120],
   "editor.selectionHighlight": false,
+  "editor.showFoldingControls": "always",
   "editor.wordWrap": "on",
   "emmet.includeLanguages": { "javascript": "javascriptreact" },
   "emmet.triggerExpansionOnTab": true,
@@ -83,6 +85,7 @@
     "typescriptreact": true,
     "xml": true
   },
+  "eslint.autoFixOnSave": true,
   "extensions.ignoreRecommendations": true,
   "extensions.showRecommendationsOnlyOnDemand": true,
   "files.trimTrailingWhitespace": true,
@@ -116,7 +119,7 @@
   "markdown.preview.scrollEditorWithPreview": false,
   "markdown.preview.scrollPreviewWithEditor": false,
   "open-in-browser.default": "chrome",
-  "prettier.disableLanguages": ["vue", "html"],
+  "prettier.disableLanguages": ["js"],
   "sync.autoDownload": true,
   "sync.autoUpload": false,
   "sync.forceDownload": false,
@@ -134,6 +137,14 @@
   "window.newWindowDimensions": "inherit",
   "window.title": "${dirty}${activeEditorLong}${separator}${rootName}",
   "window.zoomLevel": -0.4,
+  "workbench.colorCustomizations": {
+    "[Cobalt2]": {
+      "titleBar.activeBackground": "#ffc600",
+      "titleBar.activeForeground": "#193549",
+      "titleBar.inactiveBackground": "#193549",
+      "titleBar.inactiveForeground": "#193549"
+    }
+  },
   "workbench.colorTheme": "Cobalt2",
   "workbench.editor.enablePreview": false,
   "workbench.editor.enablePreviewFromQuickOpen": false,
