@@ -83,6 +83,7 @@
 
 #### Links
 
+- No-Sweat™ Eslint and Prettier Setup - https://github.com/wesbos/eslint-config-wesbos
 - Set Settings Sync to Download Only - http://settings-sync.nicksocha.com
 - Theme Color Reference - https://code.visualstudio.com/docs/getstarted/theme-color-reference
 - Visual Studio Code - https://code.visualstudio.com/
