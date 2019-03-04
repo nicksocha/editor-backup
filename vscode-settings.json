@@ -132,8 +132,6 @@
   "terminal.integrated.fontFamily": "Menlo for Powerline",
   "terminal.integrated.fontSize": 18,
   "terminal.integrated.shell.linux": "/usr/bin/zsh",
-  "vscode_custom_css.imports": ["file:///home/nick/.vscode.vscodestyles.css"],
-  "vscode_custom_css.policy": true,
   "window.newWindowDimensions": "inherit",
   "window.title": "${dirty}${activeEditorLong}${separator}${rootName}",
   "window.zoomLevel": -0.4,

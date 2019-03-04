@@ -2,9 +2,9 @@
 
 1. [vscode-keybindings.json](https://github.com/nicksocha/editor-backup/blob/master/vscode-keybindings.json)
 1. [vscode-settings.json](https://github.com/nicksocha/editor-backup/blob/master/vscode-settings.json)
-1. [vscode-vscodestyles.css](https://github.com/nicksocha/editor-backup/blob/master/vscode-vscodestyles.css)
+1. ~~[vscode-vscodestyles.css](https://github.com/nicksocha/editor-backup/blob/master/vscode-vscodestyles-css-deprecated-03-2019)~~ (Deprecated 3/2019)
 
-## Atom <img src="https://assets-cdn.github.com/images/icons/emoji/atom.png"  width="20" height="20">
+## Atom <img src="https://atom.io/favicon.ico"  width="20" height="20">
 
 <!-- Image from: https://github.com/atom/autocomplete-emojis/pull/23#issue-155490324 -->
 
@@ -45,7 +45,6 @@
 | <img src="https://wesbos.gallerycdn.vsassets.io/extensions/wesbos/theme-cobalt2/2.1.6/1518187833661/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Cobalt2 Theme Official                             | ext install wesbos.theme-cobalt2                   | https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2                   |
 | <img src="https://streetsidesoftware.gallerycdn.vsassets.io/extensions/streetsidesoftware/code-spell-checker/1.6.10/1525284241417/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Code Spell Checker   | ext install streetsidesoftware.code-spell-checker  | https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker  |
 | <img src="https://naumovs.gallerycdn.vsassets.io/extensions/naumovs/color-highlight/2.3.0/1499789961213/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Color Highlight                                | ext install naumovs.color-highlight                | https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight                |
-| <img src="https://be5invis.gallerycdn.vsassets.io/extensions/be5invis/vscode-custom-css/3.0.0/1537015799428/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Custom CSS and JS Loader                   | ext install be5invis.vscode-custom-css             | https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css             |
 | <img src="https://msjsdiag.gallerycdn.vsassets.io/extensions/msjsdiag/debugger-for-chrome/4.10.1/1536726054456/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Debugger for Chrome                     | ext install msjsdiag.debugger-for-chrome           | https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome           |
 | <img src="https://peterjausovec.gallerycdn.vsassets.io/extensions/peterjausovec/vscode-docker/0.2.0/1536265588965/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Docker                               | ext install PeterJausovec.vscode-docker            | https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker            |
 | <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/1.6.0/1536661436008/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> ESLint                                         | ext install dbaeumer.vscode-eslint                 | https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint                 |
