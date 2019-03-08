@@ -37,6 +37,20 @@
       "color": "#ff6700",
       "strikethrough": false,
       "tag": "todo"
+    },
+    {
+      // start Section Start
+      "backgroundColor": "rgba(0,153,255,0.2)",
+      "color": "#0099ff",
+      "strikethrough": false,
+      "tag": "start"
+    },
+    {
+      // end Section End
+      "backgroundColor": "rgba(0,107,179,0.2)",
+      "color": "#006bb3",
+      "strikethrough": false,
+      "tag": "end"
     }
   ],
   "clock.dateFormat": "dddd, mmmm dS, yyyy, h:MM:ss TT Z",
@@ -134,6 +148,7 @@
   "terminal.integrated.shell.linux": "/usr/bin/zsh",
   "window.newWindowDimensions": "inherit",
   "window.title": "${dirty}${activeEditorLong}${separator}${rootName}",
+  "window.titleBarStyle": "custom",
   "window.zoomLevel": -0.4,
   "workbench.colorCustomizations": {
     "[Cobalt2]": {
@@ -148,5 +163,6 @@
   "workbench.editor.enablePreviewFromQuickOpen": false,
   "workbench.iconTheme": "file-icons",
   "workbench.settings.editor": "json",
+  "workbench.settings.openDefaultSettings": true,
   "workbench.startupEditor": "none"
 }
