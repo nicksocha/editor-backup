@@ -133,7 +133,7 @@
   "markdown.preview.scrollEditorWithPreview": false,
   "markdown.preview.scrollPreviewWithEditor": false,
   "open-in-browser.default": "chrome",
-  "prettier.disableLanguages": ["js"],
+  "prettier.disableLanguages": ["html", "js"],
   "sync.autoDownload": true,
   "sync.autoUpload": false,
   "sync.forceDownload": false,
