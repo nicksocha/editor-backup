@@ -62,6 +62,7 @@
 | <img src="https://techer.gallerycdn.vsassets.io/extensions/techer/open-in-browser/2.0.0/1534049617896/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> open in browser                                  | ext install techer.open-in-browser                 | https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser                 |
 | <img src="https://christian-kohler.gallerycdn.vsassets.io/extensions/christian-kohler/path-intellisense/1.4.2/1494488953003/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Path Intellisense          | ext install christian-kohler.path-intellisense     | https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense     |
 | <img src="https://pnp.gallerycdn.vsassets.io/extensions/pnp/polacode/0.2.2/1519112191261/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Polacode                                                      | ext install pnp.polacode                           | https://marketplace.visualstudio.com/items?itemName=pnp.polacode                           |
+| <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/powershell/2019.5.0/1559070265678/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> PowerShell                                   | ext install ms-vscode.PowerShell                   | https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell                   |
 | <img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/1.6.1/1533816304474/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Prettier - Code formatter                        | ext install esbenp.prettier-vscode                 | https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode                 |
 | Quick and Simple Text Selection                                                                                                                                                                                        | ext install dbankier.vscode-quick-select           | https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select           |
 | <img src="https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/quokka-vscode/1.0.149/1537003460782/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Quokka.js                                  | ext install WallabyJs.quokka-vscode                | https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode                |
@@ -84,6 +85,7 @@
 
 #### Links
 
+- Install PowerShell on Linux - https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-6#ubuntu-1804
 - No-Sweat™ Eslint and Prettier Setup - https://github.com/wesbos/eslint-config-wesbos
 - Set Settings Sync to Download Only - http://settings-sync.nicksocha.com
 - Theme Color Reference - https://code.visualstudio.com/docs/getstarted/theme-color-reference
