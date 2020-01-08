@@ -2,16 +2,20 @@
   {
     "key": "ctrl+alt+down",
     "command": "editor.action.copyLinesDownAction",
-    "when": "editorTextFocus && !editorReadonly"
-  },
-  {
-    "key": "ctrl+shift+alt+down",
-    "command": "-editor.action.copyLinesDownAction",
-    "when": "editorTextFocus && !editorReadonly"
+    "when": "editorTextFocus && editorReadonly"
   },
   {
     "key": "ctrl+alt+up",
     "command": "editor.action.copyLinesUpAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+e",
+    "command": "workbench.view.explorer"
+  },
+  {
+    "key": "ctrl+shift+alt+down",
+    "command": "-editor.action.copyLinesDownAction",
     "when": "editorTextFocus && !editorReadonly"
   },
   {
@@ -20,7 +24,41 @@
     "when": "editorTextFocus && !editorReadonly"
   },
   {
-    "key": "ctrl+e",
-    "command": "workbench.view.explorer"
+    "key": "ctrl+shift+end",
+    "command": "-cursorBottomSelect",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+shift+end",
+    "command": "editor.action.smartSelect.expand",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+shift+home",
+    "command": "-cursorTopSelect",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+shift+home",
+    "command": "editor.action.smartSelect.shrink",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+shift+l",
+    "command": "editor.action.insertSnippet",
+    "when": "editorTextFocus",
+    "args": {
+      "snippet": "console.log('${TM_SELECTED_TEXT}$1')$2;"
+    }
+  },
+  {
+    "key": "shift+alt+left",
+    "command": "-editor.action.smartSelect.shrink",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "shift+alt+right",
+    "command": "-editor.action.smartSelect.expand",
+    "when": "editorTextFocus"
   }
 ]

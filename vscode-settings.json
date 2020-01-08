@@ -1,5 +1,6 @@
 {
   "[javascript]": { "editor.formatOnSave": false },
+  "[javascriptreact]": { "editor.formatOnSave": false },
   "[markdown]": { "editor.wordWrap": "off" },
   "better-comments.highlightPlainText": true,
   "better-comments.tags": [
@@ -133,7 +134,7 @@
   "markdown.preview.scrollEditorWithPreview": false,
   "markdown.preview.scrollPreviewWithEditor": false,
   "open-in-browser.default": "chrome",
-  "prettier.disableLanguages": ["html", "js"],
+  "prettier.disableLanguages": ["html", "javascript", "javascriptreact"],
   "sync.autoDownload": true,
   "sync.autoUpload": false,
   "sync.forceDownload": false,
@@ -165,5 +166,9 @@
   "workbench.settings.openDefaultSettings": true,
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.activityBar.visible": true
+  "workbench.activityBar.visible": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
 }
+
