@@ -1,7 +1,13 @@
 {
-  "[javascript]": { "editor.formatOnSave": false },
-  "[javascriptreact]": { "editor.formatOnSave": false },
-  "[markdown]": { "editor.wordWrap": "off" },
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "[markdown]": {
+    "editor.wordWrap": "off"
+  },
   "better-comments.highlightPlainText": true,
   "better-comments.tags": [
     {
@@ -56,6 +62,7 @@
   ],
   "clock.dateFormat": "dddd, mmmm dS, yyyy, h:MM:ss TT Z",
   "color-highlight.matchWords": true,
+  "editor.colorDecorators": true,
   "editor.cursorBlinking": "phase",
   "editor.cursorStyle": "line",
   "editor.cursorWidth": 5,
@@ -65,7 +72,7 @@
   "editor.fontSize": 24,
   "editor.fontWeight": "600",
   "editor.formatOnSave": true,
-  "editor.hover.enabled": false,
+  "editor.hover.enabled": true, //Needed true for Color Picker
   "editor.largeFileOptimizations": false,
   "editor.letterSpacing": 0.5,
   "editor.lineHeight": 29,
@@ -78,7 +85,9 @@
   "editor.selectionHighlight": false,
   "editor.showFoldingControls": "always",
   "editor.wordWrap": "on",
-  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
   "emmet.triggerExpansionOnTab": true,
   "emojisense.languages": {
     "css": true,
@@ -171,4 +180,3 @@
     "source.fixAll.eslint": true
   }
 }
-
