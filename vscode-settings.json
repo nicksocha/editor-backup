@@ -81,7 +81,11 @@
   "editor.renderControlCharacters": false,
   "editor.renderLineHighlight": "all",
   "editor.renderWhitespace": "all",
-  "editor.rulers": [80, 100, 120],
+  "editor.rulers": [
+    80,
+    100,
+    120
+  ],
   "editor.selectionHighlight": false,
   "editor.showFoldingControls": "always",
   "editor.wordWrap": "on",
@@ -109,7 +113,9 @@
     "typescriptreact": true,
     "xml": true
   },
-  "eslint.autoFixOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
   "extensions.ignoreRecommendations": true,
   "extensions.showRecommendationsOnlyOnDemand": true,
   "files.trimTrailingWhitespace": true,
@@ -139,11 +145,23 @@
       }
     }
   },
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".css",
+      "savePath": "~/../css/"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
   "liveServer.settings.donotShowInfoMsg": true,
   "markdown.preview.scrollEditorWithPreview": false,
   "markdown.preview.scrollPreviewWithEditor": false,
   "open-in-browser.default": "chrome",
-  "prettier.disableLanguages": ["html", "javascript", "javascriptreact"],
+  "prettier.disableLanguages": [
+    "html",
+    "javascript",
+    "javascriptreact"
+  ],
   "sync.autoDownload": true,
   "sync.autoUpload": false,
   "sync.forceDownload": false,
@@ -176,7 +194,4 @@
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.activityBar.visible": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  }
 }
