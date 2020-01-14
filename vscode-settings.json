@@ -114,7 +114,7 @@
     "xml": true
   },
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll": true
   },
   "extensions.ignoreRecommendations": true,
   "extensions.showRecommendationsOnlyOnDemand": true,
@@ -193,5 +193,5 @@
   "workbench.settings.openDefaultSettings": true,
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.activityBar.visible": true,
+  "workbench.activityBar.visible": true
 }
