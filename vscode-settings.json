@@ -72,8 +72,8 @@
   "editor.fontSize": 24,
   "editor.fontWeight": "600",
   "editor.formatOnSave": true,
-  "editor.hover.delay": 500,
-  "editor.hover.enabled": true, //Needed true for Color Picker
+  // "editor.hover.delay": 900,
+  "editor.hover.enabled": false, //Needed true for Color Picker
   "editor.largeFileOptimizations": false,
   "editor.letterSpacing": 0.5,
   "editor.lineHeight": 29,
@@ -198,5 +198,6 @@
   "workbench.settings.openDefaultSettings": true,
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.activityBar.visible": true
+  "workbench.activityBar.visible": true,
+  "liveServer.settings.donotVerifyTags": true
 }
