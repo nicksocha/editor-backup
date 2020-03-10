@@ -60,6 +60,7 @@
       "tag": "end"
     }
   ],
+  "browser-preview.startUrl": "http://127.0.0.1:5500/",
   "clock.dateFormat": "dddd, mmmm dS, yyyy, h:MM:ss TT Z",
   "color-highlight.matchWords": true,
   "editor.colorDecorators": true,
