@@ -168,13 +168,6 @@
     "javascriptreact",
     "json"
   ],
-  "sync.autoDownload": true,
-  "sync.autoUpload": false,
-  "sync.forceDownload": false,
-  "sync.gist": "5a074b1434b36442c40f8156e57d21eb",
-  "sync.quietSync": false,
-  "sync.removeExtensions": true,
-  "sync.syncExtensions": true,
   "terminal.integrated.cursorBlinking": true,
   // Download Menlo for Powerline: https://github.com/abertsch/Menlo-for-Powerline
   "terminal.integrated.fontFamily": "Menlo for Powerline",
@@ -200,5 +193,7 @@
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.activityBar.visible": true,
-  "liveServer.settings.donotVerifyTags": true
+  "liveServer.settings.donotVerifyTags": true,
+  "workbench.editor.untitled.hint": "hidden",
+  "security.workspace.trust.untrustedFiles": "open"
 }
