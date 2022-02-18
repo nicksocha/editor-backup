@@ -68,7 +68,6 @@
 | Quick and Simple Text Selection                                                                                                                                                                                        | ext install dbankier.vscode-quick-select           | https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select           |
 | <img src="https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/quokka-vscode/1.0.149/1537003460782/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Quokka.js                                  | ext install WallabyJs.quokka-vscode                | https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode                |
 | <img src="https://mechatroner.gallerycdn.vsassets.io/extensions/mechatroner/rainbow-csv/0.5.0/1535766192850/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Rainbow CSVRainbow CSV                     | ext install mechatroner.rainbow-csv                | https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv                |
-| <img src="https://shan.gallerycdn.vsassets.io/extensions/shan/code-settings-sync/3.4.3/1569243788505/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Settings Sync                                     | ext install Shan.code-settings-sync                | https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync                |
 | <img src="https://tyriar.gallerycdn.vsassets.io/extensions/tyriar/sort-lines/1.7.0/1526308873048/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Sort lines                                            | ext install Tyriar.sort-lines                      | https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines                      |
 | Toggle Quotes                                                                                                                                                                                                          | ext install BriteSnow.vscode-toggle-quotes         | https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes         |
 | <img src="https://chakrounanas.gallerycdn.vsassets.io/extensions/chakrounanas/turbo-console-log/1.2.10/1535874369878/Microsoft.VisualStudio.Services.Icons.Default" width="32"> <br> Turbo Console Log                 | ext install ChakrounAnas.turbo-console-log         | https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log         |
@@ -87,7 +86,6 @@
 
 - Install PowerShell on Linux - https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-6#ubuntu-1804
 - No-Sweat™ Eslint and Prettier Setup - https://github.com/wesbos/eslint-config-wesbos
-- Set Settings Sync to Download Only - http://settings-sync.nicksocha.com
 - Theme Color Reference - https://code.visualstudio.com/docs/getstarted/theme-color-reference
 - Visual Studio Code - https://code.visualstudio.com/
 - VS Code can do that?! - https://vscodecandothat.com/
