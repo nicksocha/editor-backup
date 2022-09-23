@@ -30,5 +30,5 @@
     "args": {
       "snippet": "console.log('${TM_SELECTED_TEXT}$1')$2;"
     }
-  }
+  },
 ]
